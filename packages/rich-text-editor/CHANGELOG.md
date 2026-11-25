@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/kufu/smarthr-ui/compare/rich-text-editor-v0.1.2...rich-text-editor-v0.2.0) (2026-11-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Reactの最低要求バージョンを19.2.0に引き上げる ([#7590](https://github.com/kufu/smarthr-ui/issues/7590))
+
+### Miscellaneous Chores
+
+* Reactの最低要求バージョンを19.2.0に引き上げる ([#7590](https://github.com/kufu/smarthr-ui/issues/7590)) ([0be6e21](https://github.com/kufu/smarthr-ui/commit/0be6e217ab2b6530abbfed786fa81db476037121))
+
 ## [0.1.2](https://github.com/kufu/smarthr-ui/compare/rich-text-editor-v0.1.1...rich-text-editor-v0.1.2) (2026-11-19)
 
 

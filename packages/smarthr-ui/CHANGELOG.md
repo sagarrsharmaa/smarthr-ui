@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [105.0.0](https://github.com/kufu/smarthr-ui/compare/smarthr-ui-v104.0.0...smarthr-ui-v105.0.0) (2026-11-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Reactの最低要求バージョンを19.2.0に引き上げる ([#7590](https://github.com/kufu/smarthr-ui/issues/7590))
+
+### Features
+
+* **List:** dividerで最後のアイテムの区切り線を引くかを選べるようにする ([#7645](https://github.com/kufu/smarthr-ui/issues/7645)) ([5de2605](https://github.com/kufu/smarthr-ui/commit/5de2605da1dbfe8a01d72f306387378cd2ec32a0))
+* **List:** Listコンポーネントを追加 ([#6391](https://github.com/kufu/smarthr-ui/issues/6391)) ([9f12350](https://github.com/kufu/smarthr-ui/commit/9f123504271180d6721f31ca3107d4c9730711c3))
+
+
+### Bug Fixes
+
+* **DisclosureContent:** StrictMode で初回の isOpen が反映されない問題を修正する ([#7581](https://github.com/kufu/smarthr-ui/issues/7581)) ([89347bd](https://github.com/kufu/smarthr-ui/commit/89347bdc797276bb197aa97b53312f2a276f2aa6))
+* **Table:** roundedを指定しても横スクロール時やtheadが無いときに角が丸まらない不具合を修正する ([#7594](https://github.com/kufu/smarthr-ui/issues/7594)) ([62d1f2f](https://github.com/kufu/smarthr-ui/commit/62d1f2f88e7f8bb69c7780dc6f6db45f4ccdfe2a))
+
+
+### Miscellaneous Chores
+
+* Reactの最低要求バージョンを19.2.0に引き上げる ([#7590](https://github.com/kufu/smarthr-ui/issues/7590)) ([0be6e21](https://github.com/kufu/smarthr-ui/commit/0be6e217ab2b6530abbfed786fa81db476037121))
+
 ## [104.0.0](https://github.com/kufu/smarthr-ui/compare/smarthr-ui-v103.1.1...smarthr-ui-v104.0.0) (2026-11-19)
 
 
